@@ -1,4 +1,4 @@
-- 题目名：Pseudo-Random Number Generator
+- 题目名：Rats
 - 来源：
   - 竞赛：SWERC
   - 年份：2019-2020
