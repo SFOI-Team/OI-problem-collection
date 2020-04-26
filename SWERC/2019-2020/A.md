@@ -1,7 +1,7 @@
 - 题目名：Environment-Friendly Travel
 - 来源：
    - 竞赛：SWERC
-   - 赛季：2019-2020
+   - 年份：2019-2020
    - 编号：A
 - 时间限制：3000 ms
 - 空间限制：? MiB
